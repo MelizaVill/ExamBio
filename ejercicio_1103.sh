@@ -1,5 +1,5 @@
 cd ../../unix/data
-cd CSB
+
 cd  Saavedra2013
 echo "Número de filas-polinizadores"
 cat ../Saavedra2013/n10.txt | wc -l
