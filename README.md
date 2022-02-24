@@ -1,7 +1,7 @@
 ![This is an image](https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo-ikiam-.png)
-# ExamBio
-## Repositorio Examen Parcial Bioinformatica
-###### Examen 2022 14 de enero
+# ExamBio2
+## Repositorio Examen Parcial 2 Bioinformatica
+###### Examen 2 2022 21 de febrero
 * Nombre: Sthefanny Meliza Villa Toledo
 * Edad : 21 años
 ### Caracteristicas del computador
@@ -12,9 +12,11 @@
 * Tipo de sistema Operativo: Sistema operativo de 64 bits, procesador basado en x64
 ### Programas Utilizados
 * Git bush
-* Anaconda (Jupyter lab) "Tal vez"
+* Anaconda (Jupyter notebook)
 * Visual Estudio -- Mas usaso (una maravilla)
 * Git Hub Desktop
-* Python
+* Python 
+* Paquetes=
+* -
+* -
 ##### Resolucion de los ejercicios
-##### Link de la explicacion del proceso del Examen parcial 1 de Bioinformatica
